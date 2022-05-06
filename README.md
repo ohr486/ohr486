@@ -12,7 +12,7 @@
 
 ## tech stacks
 
-[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohr486&theme=radical)
+[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohr486&laytout=compact&theme=radical)
 ](https://github.com/ohr486)
 
 ## github stats
