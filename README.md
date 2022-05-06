@@ -1,5 +1,11 @@
-# ohr486
+<p align="left">
+  <img
+    alt="Top Langs" height="150px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohr486&theme=radical&show_icons=true"
+  >
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohr486&layout=compact&theme=radical)](https://github.com/ohr486)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohr486&theme=merko)](https://github.com/ohr486)
+  <img
+    alt="GitHub Stats" height="150px"
+    src="https://github-readme-stats.vercel.app/api?username=ohr486&theme=merko&show_icons=true"
+  >
+</p>
