@@ -1,5 +1,5 @@
 
-[![repos](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoge&theme=dracula)](https://github.com/ohr486)
+[![repos](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ohr486&theme=dracula)](https://github.com/ohr486)
 
 [![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohr486&theme=radical)](https://github.com/ohr486)
 
